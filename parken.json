@@ -200,7 +200,7 @@
   {
     "name": "Parcheggio Centro Città",
     "city": "Brunico - Bruneck",
-    "free": 10,
+    "free": 11,
     "capacity": 361,
     "auslastung": 97,
     "percent_free": 3,
@@ -464,10 +464,10 @@
   {
     "name": "Garage Pana",
     "city": "valgardena",
-    "free": 5,
+    "free": 7,
     "capacity": 24,
-    "auslastung": 79,
-    "percent_free": 21,
+    "auslastung": 71,
+    "percent_free": 29,
     "status": "frei",
     "lat": 46.575191,
     "lng": 11.672587
@@ -475,10 +475,10 @@
   {
     "name": "Parcheggio + Garage Seceda",
     "city": "valgardena",
-    "free": 214,
+    "free": 208,
     "capacity": 210,
-    "auslastung": 0,
-    "percent_free": 100,
+    "auslastung": 1,
+    "percent_free": 99,
     "status": "frei",
     "lat": 46.576668,
     "lng": 11.675275
@@ -508,10 +508,10 @@
   {
     "name": "Parcheggio P1 - Monte Pana",
     "city": "valgardena",
-    "free": 33,
+    "free": 38,
     "capacity": 340,
-    "auslastung": 90,
-    "percent_free": 10,
+    "auslastung": 89,
+    "percent_free": 11,
     "status": "frei",
     "lat": 46.5515,
     "lng": 11.7178
@@ -519,10 +519,10 @@
   {
     "name": "Parcheggio P6 - Cristauta",
     "city": "valgardena",
-    "free": 49,
+    "free": 48,
     "capacity": 59,
-    "auslastung": 17,
-    "percent_free": 83,
+    "auslastung": 19,
+    "percent_free": 81,
     "status": "frei",
     "lat": 46.566344,
     "lng": 11.72463
@@ -530,21 +530,21 @@
   {
     "name": "Parcheggio Sciuz",
     "city": "valgardena",
-    "free": 8,
+    "free": 7,
     "capacity": 82,
-    "auslastung": 90,
-    "percent_free": 10,
-    "status": "frei",
+    "auslastung": 91,
+    "percent_free": 9,
+    "status": "knapp",
     "lat": 46.563767935145,
     "lng": 11.753336000001
   },
   {
     "name": "Parcheggio Setil",
     "city": "valgardena",
-    "free": 83,
+    "free": 88,
     "capacity": 88,
-    "auslastung": 6,
-    "percent_free": 94,
+    "auslastung": 0,
+    "percent_free": 100,
     "status": "frei",
     "lat": 46.573079,
     "lng": 11.6708
@@ -552,21 +552,21 @@
   {
     "name": "Parcheggio Vallunga",
     "city": "valgardena",
-    "free": 11,
+    "free": 7,
     "capacity": 109,
-    "auslastung": 90,
-    "percent_free": 10,
-    "status": "frei",
+    "auslastung": 94,
+    "percent_free": 6,
+    "status": "knapp",
     "lat": 46.564140796992,
     "lng": 11.773173077231
   },
   {
     "name": "Parcheggio stazione a valle seggiovia Monte Pana",
     "city": "valgardena",
-    "free": 10,
+    "free": 7,
     "capacity": 60,
-    "auslastung": 83,
-    "percent_free": 17,
+    "auslastung": 88,
+    "percent_free": 12,
     "status": "frei",
     "lat": 46.556562,
     "lng": 11.72396
@@ -585,7 +585,7 @@
   {
     "name": "Plan de Gralba",
     "city": "valgardena",
-    "free": 34,
+    "free": 31,
     "capacity": 400,
     "auslastung": 92,
     "percent_free": 8,
