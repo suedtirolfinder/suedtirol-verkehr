@@ -23,6 +23,8 @@ def fetch_data():
     items = payload.get("data", [])
     parsed = []
 
+    target_cities = ["bozen", "meran", "brixen", "bruneck", "trento", "rovereto", "st. ullrich", "wolkenstein", "abtei", "corvara"]
+
     for item in items:
         name = item.get("sname") or "Parkplatz"
         meta = item.get("smetadata", {})
@@ -33,6 +35,10 @@ def fetch_data():
                 meta = {}
 
         city = meta.get("municipality") or meta.get("city") or item.get("municipality") or "Südtirol"
+        
+        city_lower = city.lower()
+        if not any(tc in city_lower for tc in target_cities):
+            continue
 
         free = item.get("free")
         if free is None:
