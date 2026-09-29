@@ -2,8 +2,8 @@ name: Update Parkdaten
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Alle 15 Minuten ausführen
-  workflow_dispatch: # Ermöglicht den manuellen "Run workflow"-Button
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-data:
