@@ -101,7 +101,7 @@
   {
     "name": "P15 - Palasport via Resia",
     "city": "Bozen",
-    "free": 220,
+    "free": 221,
     "capacity": 425,
     "auslastung": 48,
     "percent_free": 52,
@@ -310,10 +310,10 @@
   {
     "name": "Parcheggio stazione Marlengo",
     "city": "Meran",
-    "free": 20,
+    "free": 19,
     "capacity": 37,
-    "auslastung": 46,
-    "percent_free": 54,
+    "auslastung": 49,
+    "percent_free": 51,
     "status": "frei",
     "lat": 46.66489445071061,
     "lng": 11.138228889410987
