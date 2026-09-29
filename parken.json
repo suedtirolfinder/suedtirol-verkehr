@@ -1,0 +1,1982 @@
+[
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 7,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 4,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 6,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 6,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 5,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 7,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 6,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 7,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 111,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 119,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 102,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 103,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 42,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 107,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 123,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 115,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 111,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "A.S.M.",
+    "city": "Südtirol",
+    "free": 102,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.893593,
+    "lng": 11.036507
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 313,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 306,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 309,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 308,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 306,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 310,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 300,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 311,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 316,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 306,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 307,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 311,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 315,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 310,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 313,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 308,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 307,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 315,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 309,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 315,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 311,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 307,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 317,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 303,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 309,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 3,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 3,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 3,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 3,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 3,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 3,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 4,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Area ex SIT via Canestrini - P1",
+    "city": "Südtirol",
+    "free": 3,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0691,
+    "lng": 11.1162
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 605,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 608,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 45,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 613,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 633,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 49,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 593,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 602,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 607,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 593,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 599,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 596,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "Autosilo Buonconsiglio - P3",
+    "city": "Südtirol",
+    "free": 53,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073612,
+    "lng": 11.124208
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 246,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 250,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 1,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 249,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 250,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 250,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 253,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 248,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 251,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "CTE via Bomporto - P6",
+    "city": "Südtirol",
+    "free": 248,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065,
+    "lng": 11.1163
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 206,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 191,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 198,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 33,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 227,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 253,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 202,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 208,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 194,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 67,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 204,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 200,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Europa - P2",
+    "city": "Südtirol",
+    "free": 104,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.073551,
+    "lng": 11.121393
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 8,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 8,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 9,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 9,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 9,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 8,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 9,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 8,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 117,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 111,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 114,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 123,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 20,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 116,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 111,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 114,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 114,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Centro Storico",
+    "city": "Südtirol",
+    "free": 109,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.89030611816176,
+    "lng": 11.04500412940979
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 306,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 5,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 299,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 302,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 300,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 300,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 304,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 5,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 307,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 305,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 302,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 5,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Duomo - P5",
+    "city": "Südtirol",
+    "free": 298,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.067219,
+    "lng": 11.115151
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 224,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "Mart",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 45.894705,
+    "lng": 11.044661
+  },
+  {
+    "name": "P02 - City parking",
+    "city": "Südtirol",
+    "free": 233,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.49644859998472,
+    "lng": 11.356304500008052
+  },
+  {
+    "name": "P05 - Laurin",
+    "city": "Südtirol",
+    "free": 57,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.498174099984666,
+    "lng": 11.357255100008064
+  },
+  {
+    "name": "P05 - Laurin",
+    "city": "Südtirol",
+    "free": 33,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.498174099984666,
+    "lng": 11.357255100008064
+  },
+  {
+    "name": "P13 – Direzional Park",
+    "city": "Südtirol",
+    "free": 114,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.49869,
+    "lng": 11.33818
+  },
+  {
+    "name": "P13 – Direzional Park",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 46.49869,
+    "lng": 11.33818
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 111,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 114,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 107,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 11,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 60,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 134,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 112,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 115,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 108,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 12,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 107,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 13,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 111,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Parcheggio Centro",
+    "city": "Südtirol",
+    "free": 102,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.892242816291905,
+    "lng": 11.039151549339294
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 326,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 92,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 331,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 334,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 434,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 16,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 347,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 350,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 344,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 103,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 337,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 326,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 333,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazza Fiera - P4",
+    "city": "Südtirol",
+    "free": 117,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.065635,
+    "lng": 11.125044
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 21,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 38,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 53,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 62,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 46,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 35,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 44,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 62,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 80,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 0,
+    "capacity": null,
+    "percent_free": null,
+    "status": "voll",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 342,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 45,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 100,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 73,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 53,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 119,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Piazzale Sanseverino - P7",
+    "city": "Südtirol",
+    "free": 83,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 46.0657,
+    "lng": 11.1145
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 39,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 8,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 37,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 41,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 44,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 66,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 42,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 7,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 41,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 45,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 43,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 6,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  },
+  {
+    "name": "Stazione",
+    "city": "Südtirol",
+    "free": 41,
+    "capacity": null,
+    "percent_free": null,
+    "status": "frei",
+    "lat": 45.889441,
+    "lng": 11.034458
+  }
+]
