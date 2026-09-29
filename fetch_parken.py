@@ -2,13 +2,13 @@ import json
 import urllib.request
 import ssl
 
-# Open Data Hub Südtirol: Alle ParkingStation-Echtzeitdaten
-URL = "https://mobility.api.opendatahub.com/v2/flat/ParkingStation/*/latest?limit=500"
+# Endpunkt für alle Parkstationen & Sensoren in Südtirol
+URL = "https://mobility.api.opendatahub.com/v2/flat/ParkingStation/*/latest?limit=1000"
 
 def get_parking_data():
     req = urllib.request.Request(
         URL,
-        headers={"User-Agent": "Mozilla/5.0 (compatible; SuedtirolMagazin/1.0)"}
+        headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) SuedtirolMagazin/1.0"}
     )
     
     ctx = ssl.create_default_context()
@@ -16,110 +16,95 @@ def get_parking_data():
     ctx.verify_mode = ssl.CERT_NONE
 
     try:
-        with urllib.request.urlopen(req, context=ctx, timeout=20) as response:
+        with urllib.request.urlopen(req, context=ctx, timeout=25) as response:
             payload = json.loads(response.read().decode('utf-8'))
     except Exception as e:
         print(f"Fehler beim Abruf: {e}")
         return []
 
     raw_items = payload.get("data", [])
-    print(f"API lieferte insgesamt {len(raw_items)} Datensätze.")
+    print(f"API lieferte {len(raw_items)} Datensätze.")
 
     stations = []
-    seen = set()
+    seen = {}
 
     for item in raw_items:
-        # Nur Einträge mit freiem Parkplatz-Messwert (tname == 'free' oder vorhandener mvalue)
-        tname = item.get("tname")
-        if tname and tname != "free":
-            continue
-
         name = item.get("sname") or item.get("scode")
         if not name:
             continue
 
-        # Duplikate vermeiden
-        if name in seen:
-            continue
-
-        # Metadaten auslesen
-        meta = item.get("smetadata") or {}
-        if not isinstance(meta, dict):
-            meta = {}
-
-        # Stadt ermitteln
-        city = item.get("municipality") or meta.get("city") or meta.get("municipality") or ""
-        
-        name_lower = name.lower()
-        if not city or city == "Südtirol":
-            if any(x in name_lower for x in ["bozen", "bolzano", "walther", "laurin", "central parking", "city parking"]):
-                city = "Bozen"
-            elif any(x in name_lower for x in ["meran", "merano", "therme", "karl wolf", "plankenstein"]):
-                city = "Meran"
-            elif any(x in name_lower for x in ["brixen", "bressanone"]):
-                city = "Brixen"
-            elif any(x in name_lower for x in ["bruneck", "brunico"]):
-                city = "Bruneck"
-            else:
-                city = "Südtirol"
-
-        # Freie Plätze ermitteln
-        free_val = item.get("mvalue")
-        if free_val is None:
+        # Messwert (freie Plätze)
+        mval = item.get("mvalue")
+        if mval is None:
             continue
 
         try:
-            free = int(float(free_val))
+            free = int(float(mval))
         except (ValueError, TypeError):
             continue
 
+        scode = str(item.get("scode", "")).lower()
+        sname = str(name).lower()
+        muni = str(item.get("municipality", "")).lower()
+        meta = item.get("smetadata") if isinstance(item.get("smetadata"), dict) else {}
+
+        # Stadt-Erkennung (präzise Match-Tabelle für Südtirol)
+        city = "Südtirol"
+        if any(k in muni or k in sname or k in scode for k in ["meran", "merano", "therme", "karl wolf", "plankenstein", "prader", "maia bassa", "untermais"]):
+            city = "Meran"
+        elif any(k in muni or k in sname or k in scode for k in ["brixen", "bressanone", "priel", "rosslauf", "stufels", "acquarena"]):
+            city = "Brixen"
+        elif any(k in muni or k in sname or k in scode for k in ["bruneck", "brunico", "mobilitätszentrum", "steggern", "rathaus"]):
+            city = "Bruneck"
+        elif any(k in muni or k in sname or k in scode for k in ["bozen", "bolzano", "walther", "laurin", "central", "city parking", "bozen mitte"]):
+            city = "Bozen"
+
         # Kapazität ermitteln
-        cap_val = meta.get("capacity") or meta.get("total_capacity") or item.get("pcapacity")
+        cap = item.get("pcapacity") or item.get("capacity") or meta.get("capacity") or meta.get("total_capacity")
         try:
-            cap = int(float(cap_val)) if cap_val is not None else None
+            cap = int(float(cap)) if cap else None
         except (ValueError, TypeError):
             cap = None
 
-        # Prozentwert
-        if cap and cap > 0:
-            percent_free = max(0, min(100, round((free / cap) * 100)))
-        else:
-            percent_free = None
+        coords = item.get("scoordinate") if isinstance(item.get("scoordinate"), dict) else {}
+        lat = coords.get("y")
+        lng = coords.get("x")
+
+        # Prozent freie Plätze berechnen
+        percent = round((free / cap) * 100) if (cap and cap > 0) else None
 
         # Status
-        if free == 0:
+        if free <= 0:
             status = "voll"
-        elif percent_free is not None and percent_free < 10:
+        elif percent is not None and percent < 10:
             status = "knapp"
         else:
             status = "frei"
 
-        # Koordinaten
-        coords = item.get("scoordinate") or {}
-        lat = coords.get("y") if isinstance(coords, dict) else None
-        lng = coords.get("x") if isinstance(coords, dict) else None
-
-        stations.append({
+        entry = {
             "name": name,
             "city": city,
             "free": free,
             "capacity": cap,
-            "percent_free": percent_free,
+            "percent_free": percent,
             "status": status,
             "lat": lat,
             "lng": lng
-        })
-        seen.add(name)
+        }
 
-    # Nach Stadt (Bozen & Meran zuerst) und Name sortieren
-    prio_order = {"bozen": 1, "bolzano": 1, "meran": 2, "merano": 2, "brixen": 3, "bruneck": 4}
-    stations.sort(key=lambda s: (prio_order.get(s["city"].lower(), 99), s["name"]))
+        # Dubletten vermeiden (aktuellsten Datensatz behalten)
+        seen[name] = entry
+
+    stations = list(seen.values())
+
+    # Sortierung: Bozen, Meran, Brixen, Bruneck, Rest
+    order = {"bozen": 1, "meran": 2, "brixen": 3, "bruneck": 4, "südtirol": 5}
+    stations.sort(key=lambda s: (order.get(s["city"].lower(), 99), s["name"]))
 
     return stations
 
 if __name__ == "__main__":
     results = get_parking_data()
-    print(f"Erfolgreich {len(results)} Parkhäuser aufbereitet.")
-    
+    print(f"Fertig: {len(results)} Parkstationen gespeichert.")
     with open("parken.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
